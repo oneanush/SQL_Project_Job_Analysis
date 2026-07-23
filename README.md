@@ -10,7 +10,9 @@ This project explores the **Data Scientist job market** using SQL by analyzing j
 * 💵 Which skills command the highest salaries?
 * 🎯 Which skills provide the best balance of demand and salary?
 
-The analysis was performed using SQL on the Data Jobs dataset by joining multiple tables and applying filtering, aggregation, and Common Table Expressions (CTEs). [project_files](/sql_project_files/)
+The analysis was performed using SQL on the Data Jobs dataset by joining multiple tables and applying filtering, aggregation, and Common Table Expressions (CTEs).
+[project_files](/sql_project_files/) |
+[dataset_used](https://lukeb.co/sql_jobs_db)
 
 ---
 
